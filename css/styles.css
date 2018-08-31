@@ -13,6 +13,7 @@ h1.page-header {
 }
 
 h2.entry-header {
+  float: left;
   font-weight: 400;
   font-size: 2em;
   line-height: 1.6;
@@ -20,6 +21,11 @@ h2.entry-header {
   color: #32b9b1;
   margin-bottom: .5em;
   padding-bottom: .5em;
+}
+
+h5.year-subhead {
+  float: right;
+  line-height: 0.8;
 }
 
 p {
