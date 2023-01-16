@@ -120,20 +120,20 @@ li {
 }
 
 .page-header {
-  margin: 0.5rem 0;
+  margin: 1rem 0;
   padding: 0;
   color: var(--text-color-2);
-}
-
-@media only screen and (max-width: 440px) {
-  .page-header {
-    font-size: 2rem;
-  }
 }
 
 @media only screen and (max-width: 540px) {
   .page-header {
     font-size: 2.5rem;
+  }
+}
+
+@media only screen and (max-width: 440px) {
+  .page-header {
+    font-size: 2rem;
   }
 }
 
