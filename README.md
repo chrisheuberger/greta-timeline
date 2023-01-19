@@ -1,5 +1,5 @@
 # greta-timeline
-A timeline for my other niece
+A timeline for my niece.
 
 [http://chrisbup.github.io/greta-timeline](http://chrisbup.github.io/greta-timeline)
 
